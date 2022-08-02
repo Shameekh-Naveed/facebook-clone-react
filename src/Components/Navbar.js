@@ -84,7 +84,7 @@ export default function Navbar() {
     // </nav>
 
     <nav
-      className="navbar navbar-expand-lg stickytop row py-0"
+      className="navbar navbar-expand-lg sticky-top row py-0"
       style={{ backgroundColor: "#ffff",height:'56px' }}
     >
       {/* <div className="row"> */}
