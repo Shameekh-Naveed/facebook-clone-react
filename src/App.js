@@ -19,3 +19,4 @@ function App() {
 }
 
 export default App;
+  // IMPORTANT ADD ICOS8 LINK IN FOOTER
